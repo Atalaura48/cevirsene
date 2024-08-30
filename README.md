@@ -1,3 +1,4 @@
+2Take1Menu gerektirir https://2take1menu.store/
 Sürüm: 1.0.0
 
 Dosyayı atacağınız yer:
