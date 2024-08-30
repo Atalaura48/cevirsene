@@ -1,3 +1,5 @@
+Çevirsene
+
 2Take1Menu gerektirir https://2take1menu.store/
 
 Dosyayı atacağınız yer:
